@@ -1,15 +1,5 @@
 ---
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+layout: editorial
 ---
 
 # Fluoxetine - Adverse effects
@@ -24,7 +14,7 @@ layout:
   * Insomnia
   * Abnormal dreams
 * Anorexia
-  * Monitor for significant weight loss, especially if the patient is underweight or has a bulimia nervosa diagnosis.
+  * Monitor for significant weight loss, especially if the patient is underweight or has a bulimia nervosa diagnosis.d
 * Antidepressant-induced excessive sweating (ADIES):
   * Dose-related side effect
   * If antidepressant dose reduction is clinically feasible, it should be tried.
@@ -36,7 +26,7 @@ layout:
 * Sexual dysfunction:
   * Decreased libido: up to 4% incidence
   * There are no specific incidence reports for impotence, erectile dysfunction, delayed ejaculation, or anorgasmia.
-  * "Drug holidays" are not effective for fluoxetine.
+  * "Drug holidays" are not effective for fluoxetine.dd
 * Headache
 * Rash
 
