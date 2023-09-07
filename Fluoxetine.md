@@ -1,6 +1,20 @@
-# The Psychopharmacology of Fluoxetine: Mechanism of Action, Indications, Pharmacokinetics and Dosing
+---
+Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines and Adverse Effects"
+---
+
+
+# Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines and Adverse Effects
+
 ## In a nutshell
 
+* Pharmacodynamics: 
+	* Fluoxetine potently inhibits the serotonin transporter (SERT). 
+	* At higher doses, it also acts as an antagonist at 5HT2C receptors, which may contribute to its activating properties.
+* Clinical uses: 
+	* Fluoxetine is FDA-approved to treat major depressive disorder, obsessive-compulsive disorder, panic disorder, and bulimia nervosa. 
+	* It is also used off-label to treat repetitive behaviors in autism spectrum disorder.
+* Unique features: 
+	* Fluoxetine has a long half-life of 2-4 days (norfluoxetine metabolite has a half-life of 7-14 days).
 ## Pharmacodynamics
 
 * Animal studies reveal that:
