@@ -1,7 +1,3 @@
->[!info] Pending
-> Write in a nutshell.
-> Osser reference
-
 # The Psychopharmacology of Fluoxetine: Mechanism of Action, Indications, Pharmacokinetics and Dosing
 
 ## In a nutshell
