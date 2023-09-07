@@ -111,7 +111,7 @@
 
 * The olanzapine/fluoxetine combination is recommended by NICE guidelines, along with quetiapine, as the first-line treatment for bipolar depression in youth as in adults. [^NICE-Depression-children-adolescents]
 	* The well-known adverse effect profile of olanzapine constrains its use.
-* In markets where Symbyax is not available, combining olanzapine and fluoxetine (e.g. 5/20mg or 10/40mg) can achieve the same effects. [^Mausdley]
+* In markets where Symbyax is not available, combining olanzapine and fluoxetine (e.g. 5/20mg or 10/40mg) can achieve the same effects. [^Maudsley]
 * Adults
 	* Timing: Once daily in the evening.
 	* Starting dose:
