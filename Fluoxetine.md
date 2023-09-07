@@ -1,5 +1,4 @@
 # The Psychopharmacology of Fluoxetine: Mechanism of Action, Indications, Pharmacokinetics and Dosing
-
 ## In a nutshell
 
 ## Pharmacodynamics
