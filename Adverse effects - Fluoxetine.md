@@ -30,7 +30,7 @@
 * Hyponatremia, mainly in the elderly.
 * Gastrointestinal bleeding, especially when combined with NSAIDs such as ibuprofen.
 
-[[Research Notes - Adverse Effects - Fluoxetine]]
+## References
 
 [^Goldberg]: Joseph F. Goldberg, M.D., M.S., Carrie L. Ernst, M.D.. (2018). <em>Managing the Side Effects of Psychotropic Medications</em>. American Psychiatric Association Publishing. https://ebooks.appi.org/epubreader/managing-side-effects-psychotropic-medications
 [^Rothschild]: Rothschild A. J. (1995). Selective serotonin reuptake inhibitor-induced sexual dysfunction: efficacy of a drug holiday. _The American journal of psychiatry_, _152_(10), 1514–1516. https://doi.org/10.1176/ajp.152.10.1514
