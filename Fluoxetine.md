@@ -224,9 +224,11 @@ P
 
 [^Blanco]: Blanco, C., Bragdon, L. B., Schneier, F. R., & Liebowitz, M. R. (2013). The evidence-based pharmacotherapy of social anxiety disorder. _International Journal of Neuropsychopharmacology_, _16_(1), 235-249. https://doi.org/10.1017/S1461145712000119
 
-[^Sysko]: Sysko R, et al. Early response to antidepressant treatment in bulimia nervosa. Psychol Med 2010; 40:999–1005.
+[^Carlat]: Puzantian, T., Carlat, D. (2020). Medication Fact Book for Psychiatric Practice, Fifth Edition. United States: Carlat Publishing, LLC. 
 
-[^NICE Depression children and adolescents]: . National Institute for Health and Care Excellence (NICE). Depression in children and young people: identification and management. NICE Guideline [NG134]. 2019; www.nice.org.uk/guidance/ng134.
+[^Sysko]: Sysko, R., Sha, N., Wang, Y., Duan, N., & Walsh, B. T. (2010). Early response to antidepressant treatment in bulimia nervosa. _Psychological medicine_, _40_(6), 999–1005. https://doi.org/10.1017/S0033291709991218
+
+[^NICE Depression children and adolescents]: National Institute for Health and Care Excellence (NICE). Depression in children and young people: identification and management. NICE Guideline [NG134]. 2019; www.nice.org.uk/guidance/ng134.
 
 [^Davidson]: Davidson JR, Foa EB, Huppert JD, et al. Fluoxetine, comprehensive cognitive behavioral therapy, and placebo in generalized social phobia. Arch Gen Psychiatry. 2004;61(10):1005-1013.
 
@@ -245,3 +247,5 @@ P
 [^Thompson]: Thompson, S., Compton, L., Chen, J.-L., & Fang, M.-L. (2021). Pharmacologic Treatment of Antidepressant-Induced Excessive Sweating: A Systematic Review. Archives of Clinical Psychiatry (São Paulo), 48, 57-65. https://doi.org/10.15761/0101-60830000000279.
 
 [^Mago]: Mago, Rajnish. (Accesed 2023, September 6). _Antidepressant-induced excessive sweating (ADIES) or hyperhidrosis: Management_. [https://simpleandpractical.com/antidepressant-induced-excessive-sweating-adies-hyperhidrosis-management/](https://simpleandpractical.com/antidepressant-induced-excessive-sweating-adies-hyperhidrosis-management/)
+
+[^Maudsley]: Taylor, D. M., Barnes, T. R. E., & Young, A. H. (2021). _The Maudsley prescribing guidelines in psychiatry_ (14th ed.). Wiley-Blackwell.
