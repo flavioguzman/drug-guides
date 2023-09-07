@@ -1,0 +1,31 @@
+name: MD to HTML
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check Out Repo
+        uses: actions/checkout@v2
+
+      - name: Install Pandoc if Needed and Convert Markdown to HTML
+        run: |
+          if ! command -v pandoc &> /dev/null
+          then
+            sudo apt-get -y install pandoc
+          fi
+          mkdir htmls
+          for mdfile in $(find . -name "*.md"); do
+            pandoc "$mdfile" -o "./htmls/$(basename "$mdfile" .md).html"
+          done
+
+      - name: Upload HTML files
+        uses: actions/upload-artifact@v2
+        with:
+          name: HTMLs
+          path: htmls
