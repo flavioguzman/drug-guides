@@ -2,7 +2,6 @@
 
 ## In a nutshell
 
-
 ## Pharmacodynamics
 
 * Animal studies reveal that:
