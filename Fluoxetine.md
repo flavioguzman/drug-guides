@@ -67,7 +67,7 @@ P
 			* Administer doses above 20 mg/day once daily in the morning or twice daily (i.e., morning and noon).
 		* Maximum dose: 80 mg/day.
 * Pediatric (children and adolescents):
-	*  Fluoxetine is the recommended first-line medication for depression in children and adolescents. [^NICE Depression children and adolescents]
+	*  Fluoxetine is the recommended first-line medication for depression in children and adolescents. [^NICE-Depression-children-adolescents]
 	* Initiate 10 or 20 mg/day. 
 	* After 1 week at 10 mg/day, increase the dose to 20 mg/day. 
 		* However, due to higher plasma levels in lower-weight children, the starting and target dose in this group may be 10 mg/day. 
@@ -228,7 +228,7 @@ P
 
 [^Sysko]: Sysko, R., Sha, N., Wang, Y., Duan, N., & Walsh, B. T. (2010). Early response to antidepressant treatment in bulimia nervosa. _Psychological medicine_, _40_(6), 999–1005. https://doi.org/10.1017/S0033291709991218
 
-[^NICE Depression children and adolescents]: National Institute for Health and Care Excellence (NICE). Depression in children and young people: identification and management. NICE Guideline [NG134]. 2019; www.nice.org.uk/guidance/ng134.
+[^NICE-Depression-children-adolescents]: National Institute for Health and Care Excellence (NICE). Depression in children and young people: identification and management. NICE Guideline [NG134]. 2019; www.nice.org.uk/guidance/ng134.
 
 [^Davidson]: Davidson JR, Foa EB, Huppert JD, et al. Fluoxetine, comprehensive cognitive behavioral therapy, and placebo in generalized social phobia. Arch Gen Psychiatry. 2004;61(10):1005-1013.
 
