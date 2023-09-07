@@ -1,2 +1,0 @@
-# Fluoxetine mechanism of action
-
