@@ -1,16 +1,12 @@
 >[!info] Pending
 > Write in a nutshell.
-> Maudsley reference. NICE reference
+> Osser reference
 
 # The Psychopharmacology of Fluoxetine: Mechanism of Action, Indications, Pharmacokinetics and Dosing
 
 ## In a nutshell
 
-Fluoxetine has activating properties that make it a good option for patients with retarded depression or atypical depression. 
-However, we should avoid activation in patients with insomnia and agitation. 
 
-There is something that makes fluoxetine unique: its long half-life. We will discuss the advantages and disadvantages of this in clinical practice. This long half-life allowed the development of a weekly capsule. The other important pharmacokinetic concept is that fluoxetine is a potent inhibitor of CYP2D6.
-P
 ## Pharmacodynamics
 
 * Animal studies reveal that:
@@ -85,11 +81,11 @@ P
 	  * Maximum dose:
 		  * The maximum dose should not exceed 80 mg/day.
   * Pediatric (children and adolescents)
-	  * In adolescents and higher-weight children
+	  * In adolescents and higher-weight children:
 		  * Initiate treatment with a dose of 10 mg/day.
 		  * After 2 weeks, increase the dose to 20 mg/day. 
 		  * Dose range: 20 to 60 mg/day.
-	* In lower-weight children:
+	  * In lower-weight children:
 		* Initiate treatment with a dose of 10 mg/day.
 		* Dose range: 20 to 30 mg/day. 
 #### Panic disorder
@@ -228,6 +224,7 @@ P
 
 [^Sysko]: Sysko, R., Sha, N., Wang, Y., Duan, N., & Walsh, B. T. (2010). Early response to antidepressant treatment in bulimia nervosa. _Psychological medicine_, _40_(6), 999–1005. https://doi.org/10.1017/S0033291709991218
 
+[^Procyshyn]:  Procyshyn,R. M., Bezchlibnyk-Butler, K. Z., & Kim, D. D. (Eds.). (2023). _Clinical handbook of psychotropic drugs_ (25th edition). Hogrefe Publishing.
 [^NICE-Depression-children-adolescents]: National Institute for Health and Care Excellence (NICE). Depression in children and young people: identification and management. NICE Guideline [NG134]. 2019; www.nice.org.uk/guidance/ng134.
 
 [^Davidson]: Davidson JR, Foa EB, Huppert JD, et al. Fluoxetine, comprehensive cognitive behavioral therapy, and placebo in generalized social phobia. Arch Gen Psychiatry. 2004;61(10):1005-1013.
@@ -249,3 +246,7 @@ P
 [^Mago]: Mago, Rajnish. (Accesed 2023, September 6). _Antidepressant-induced excessive sweating (ADIES) or hyperhidrosis: Management_. [https://simpleandpractical.com/antidepressant-induced-excessive-sweating-adies-hyperhidrosis-management/](https://simpleandpractical.com/antidepressant-induced-excessive-sweating-adies-hyperhidrosis-management/)
 
 [^Maudsley]: Taylor, D. M., Barnes, T. R. E., & Young, A. H. (2021). _The Maudsley prescribing guidelines in psychiatry_ (14th ed.). Wiley-Blackwell.
+
+[^Prozac]: Eli Lilly and Company. (2023). Prozac (fluoxetine hydrochloride) capsules for oral use. Retrieved September 7, 2023, from https://pi.lilly.com/us/prozac.pdf
+
+[^Osser-SAD]: Osser, D. (2020). Social Anxiety Disorder algorithm. Psychopharm. Mobi. [https://psychopharm.mobi/algo_live/#](https://psychopharm.mobi/algo_live/#)
