@@ -3,6 +3,7 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 ---
 # Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines and Adverse Effects
 
+
 ## In a nutshell
 
 * Pharmacodynamics: 
