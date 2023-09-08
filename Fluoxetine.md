@@ -193,6 +193,7 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 * Gastrointestinal bleeding, especially when combined with NSAIDs such as ibuprofen.
 
 ## Use in special populations
+
 ### Breastfeeding
 
 * The average amount of drug in breastmilk is higher with fluoxetine than with most other SSRIs
