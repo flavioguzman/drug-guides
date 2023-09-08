@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Check Out Repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
 
       - name: Install Pandoc if Needed and Convert Markdown to HTML
         run: |
@@ -19,7 +19,7 @@ jobs:
           then
             sudo apt-get -y install pandoc
           fi
-          mkdir htmls
+          mkdir -p htmls
           for mdfile in $(find . -name "*.md"); do
             pandoc "$mdfile" -o "./htmls/$(basename "$mdfile" .md).html"
           done
