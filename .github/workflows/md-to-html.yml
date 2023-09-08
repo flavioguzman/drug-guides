@@ -24,8 +24,10 @@ jobs:
             pandoc "$mdfile" -o "./htmls/$(basename "$mdfile" .md).html"
           done
 
-      - name: Upload HTML files
-        uses: actions/upload-artifact@v2
-        with:
-          name: HTMLs
-          path: htmls
+      - name: Commit and push generated HTML files
+        run: |
+          git config --global user.name 'Flavio Guzman'
+          git config --global user.email 'flavioeguzman@gmail.com'
+          git add htmls/*
+          git commit -m "Automatically generated HTML files from Markdown"
+          git push
