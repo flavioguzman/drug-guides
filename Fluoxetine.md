@@ -1,8 +1,9 @@
 ---
 Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines and Adverse Effects"
 ---
-# Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines and Adverse Effects
 
+
+# Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines and Adverse Effects
 
 ## In a nutshell
 
@@ -14,7 +15,6 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 	* It is also used off-label to treat repetitive behaviors in autism spectrum disorder.
 * Unique features: 
 	* Fluoxetine has a long half-life of 2-4 days (norfluoxetine metabolite has a half-life of 7-14 days).
-
 ## Pharmacodynamics
 
 * Animal studies reveal that:
@@ -40,11 +40,10 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 	* The effects of dose changes will not be fully reflected for several weeks.
 	* If you need to switch a patient from fluoxetine to an MAOI, you must wait a longer washout period before initiating the MAOI. It is generally recommended to wait 5 weeks.[^Prozac]
 	*  Weekly delayed-release fluoxetine 90mg yields similar plasma levels to 10-20mg daily. [^Procyshyn]
-
 ### Effects on CYP2D6
 
-![fluoxetine_cyp2d6](https://cdn.psychopharmacologyinstitute.com/%5BGuides%5D/Fluoxetine%20-%20Strong%20CYP2D6%20inhibitor.svg)
 
+![fluoxetine_cyp2d6](https://cdn.psychopharmacologyinstitute.com/%5BGuides%5D/Fluoxetine%20-%20Strong%20CYP2D6%20inhibitor.svg)
 * Fluoxetine inhibits the activity of CYP2D6. 
 	* This may cause individuals with regular CYP2D6 metabolic activity to resemble poor metabolizers.
 	* Fluoxetine can increase the levels of pimozide and thioridazine.
@@ -193,7 +192,6 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 * Gastrointestinal bleeding, especially when combined with NSAIDs such as ibuprofen.
 
 ## Use in special populations
-
 ### Breastfeeding
 
 * The average amount of drug in breastmilk is higher with fluoxetine than with most other SSRIs
