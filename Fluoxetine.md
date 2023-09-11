@@ -119,9 +119,9 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 * Children and adolescents (10–17 years of age)
 	* Timing: Once daily in the evening.
 	* Starting dose: 
-		* Olanzapine, 3 mg/fluoxetine, 25 mg 
+		* Olanzapine 3 mg/fluoxetine 25 mg 
 	* Maximum dose: 
-		* Olanzapine, 12 mg/fluoxetine, 50 mg
+		* Olanzapine 12 mg/fluoxetine 50 mg
   
 #### Treatment-resistant depression (as Symbyax)
 * Adults
