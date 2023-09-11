@@ -1,25 +1,45 @@
 ---
-Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines and Adverse Effects"
+Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines, and Adverse Effects"
 ---
 
 
-# Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines and Adverse Effects
+# Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines, and Adverse Effects
 
 ## In a nutshell
 
-* Pharmacodynamics: 
-	* Fluoxetine potently inhibits the serotonin transporter (SERT). 
-	* At higher doses, it also acts as an antagonist at 5HT2C receptors, which may contribute to its activating properties.
-* Clinical uses: 
-	* Fluoxetine is FDA-approved to treat major depressive disorder, obsessive-compulsive disorder, panic disorder, and bulimia nervosa. 
-	* It is also used off-label to treat repetitive behaviors in autism spectrum disorder.
-* Unique features: 
-	* Fluoxetine has a long half-life of 2-4 days (norfluoxetine metabolite has a half-life of 7-14 days).
+- Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines, and Adverse Effects
+	- In a nutshell
+	- Pharmacodynamics
+	- Pharmacokinetics
+		- Half-life
+		- Effects on CYP2D6
+	- Indications
+		- FDA-approved indications and dosing
+			- Overview
+			- Major depressive disorder
+			- Obsessive-compulsive disorder
+			- Panic disorder
+			- Bulimia nervosa
+			- Bipolar depression (as Symbyax)
+			- Treatment-resistant depression (as Symbyax)
+		- Off-label uses
+			- Repetitive behaviors in autism spectrum disorder (ASD)
+			- Posttraumatic stress disorder (PTSD)
+			- Social anxiety disorder (SAD)
+	- Adverse effects
+		- Most common side effects
+		- Serious, but rare side effects
+	- Use in special populations
+		- Breastfeeding
+		- Hepatic impairment
+		- Renal impairment
+	- Brand names
+	- References
 ## Pharmacodynamics
 
 * Animal studies reveal that:
 	* Fluoxetine inhibits the serotonin transporter protein (SERT). 
-		* Potent serotonin uptake inhibitor
+		* Potent serotonin uptake inhibitor.
 	* At higher concentrations, fluoxetine inhibits 5HT2C receptors. [^Pälvimäki]
 		* This may mediate increased synaptic norepinephrine and dopamine in the prefrontal cortex.	[^Bymaster]
 * Potential clinical implications:
@@ -32,14 +52,14 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 ## Pharmacokinetics
 ### Half-life
 
-* Fluoxetine half-life: 2-4 days
-	* Norfluoxetine (active metabolite) half-life: 7-14 days 
+* Fluoxetine half-life: 2–4 days
+	* Norfluoxetine (active metabolite) half-life: 7–14 days 
 * Benefits of a long half-life:
 	* Patients are less likely to experience serotonin discontinuation symptoms after a missed dose or when discontinuing treatment. [^Carlat]
 * Prescribing considerations related to long-half life:
 	* The effects of dose changes will not be fully reflected for several weeks.
 	* If you need to switch a patient from fluoxetine to an MAOI, you must wait a longer washout period before initiating the MAOI. It is generally recommended to wait 5 weeks.[^Prozac]
-	*  Weekly delayed-release fluoxetine 90mg yields similar plasma levels to 10-20mg daily. [^Procyshyn]
+	*  Weekly delayed-release fluoxetine 90 mg yields similar plasma levels to 10 mg–20 mg/day. [^Procyshyn]
 ### Effects on CYP2D6
 
 
@@ -57,7 +77,7 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 * Mood disorders:
 	* Major depressive disorder
 	* Bipolar depression (as olanzapine/fluoxetine combination, Symbyax)
-	* Treatment-resistant depression(as olanzapine/fluoxetine combination, Symbyax)
+	* Treatment-resistant depression (as olanzapine/fluoxetine combination, Symbyax)
 * Anxiety disorders: 
 	* Panic disorder
 	* OCD
@@ -68,11 +88,11 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 		* Initiate 20 mg/day orally in the morning. 
 	* Dose increases:
 		* Consider a dose increase after several weeks if insufficient clinical improvement is observed. 
-			* Administer doses above 20 mg/day once daily in the morning or twice daily (i.e., morning and noon).
+			* Administer doses above 20 mg/day once daily, in the morning, or twice daily (i.e., morning and noon).
 		* Maximum dose: 80 mg/day.
 * Pediatric (children and adolescents):
 	*  Fluoxetine is the recommended first-line medication for depression in children and adolescents. [^NICE-Depression-children-adolescents]
-	* Initiate 10 or 20 mg/day. 
+	* Initiate 10 mg–20 mg/day. 
 	* After 1 week at 10 mg/day, increase the dose to 20 mg/day. 
 		* However, due to higher plasma levels in lower-weight children, the starting and target dose in this group may be 10 mg/day. 
 		* Consider a dose increase to 20 mg/day after several weeks if insufficient clinical improvement is observed. 
@@ -92,21 +112,21 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 	  * In adolescents and higher-weight children:
 		  * Initiate treatment with a dose of 10 mg/day.
 		  * After 2 weeks, increase the dose to 20 mg/day. 
-		  * Dose range: 20 to 60 mg/day.
+		  * Dose range: 20 mg–60 mg/day.
 	  * In lower-weight children:
 		* Initiate treatment with a dose of 10 mg/day.
-		* Dose range: 20 to 30 mg/day. 
+		* Dose range: 20 mg–30 mg/day. 
 #### Panic disorder
 * Starting dose:
 	* Initiate 10 mg/day. 
 * Dose increases:
 	* After one week, increase the dose to 20 mg/day. 
-* Dose range: 10 to 60 mg/day.
+* Dose range: 10 mg–60 mg/day.
 * Maximum dose: 60 mg/day
 	* The most frequently administered dose in the 2 flexible-dose clinical trials was 20 mg/day.
 #### Bulimia nervosa
 
-* Early response (at 3 weeks) is a strong predictor of response overall.[^Sysko] 
+* Early response (at 3 weeks) strongly predicts overall response.[^Sysko] 
 * Starting dose:
 	* 60 mg/day in the morning.
 	* For some patients, it may be advisable to titrate up to this target dose over several days. 
@@ -119,42 +139,42 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 
 * The olanzapine/fluoxetine combination is recommended by NICE guidelines, along with quetiapine, as the first-line treatment for bipolar depression in youth as in adults. [^NICE-Depression-children-adolescents]
 	* The well-known adverse effect profile of olanzapine constrains its use.
-* In markets where Symbyax is not available, combining olanzapine and fluoxetine (e.g. 5/20mg or 10/40mg) can achieve the same effects. [^Maudsley]
+* In markets where Symbyax is not available, combining olanzapine and fluoxetine (e.g. 5 mg/20 mg or 10 mg/40 mg) can achieve the same effects. [^Maudsley]
 * Adults
 	* Timing: Once daily in the evening.
 	* Starting dose:
-		* Start with the olanzapine 6 mg/ fluoxetine 25 mg capsule.
-	* Maximum dose: olanzapine 12 mg/ fluoxetine 50 mg once daily.
-* Children and adolescents (10 -17 years of age)
+		* Start with the olanzapine, 6 mg/fluoxetine, 25 mg capsule.
+	* Maximum dose: olanzapine, 12 mg/fluoxetine, 50 mg once daily.
+* Children and adolescents (10–17 years of age)
 	* Timing: Once daily in the evening.
 	* Starting dose: 
-		* Olanzapine 3 mg/ fluoxetine 25 mg 
+		* Olanzapine, 3 mg/fluoxetine, 25 mg 
 	* Maximum dose: 
-		* Olanzapine 12 mg/ fluoxetine 50 mg
+		* Olanzapine, 12 mg/fluoxetine, 50 mg
   
 #### Treatment-resistant depression (as Symbyax)
 * Adults
 	* Timing: Once daily in the evening.
 	* Starting dose: 
-		* Start with the olanzapine 6 mg/ fluoxetine 25 mg capsule.
-	* Maximum dose: olanzapine 12 mg/ fluoxetine 50 mg once daily.
+		* Start with the olanzapine, 6 mg/fluoxetine, 25 mg capsule.
+	* Maximum dose: olanzapine, 12 mg/fluoxetine, 50 mg once daily.
 ### Off-label uses
 
-#### Repetitive behaviors in ASD
+#### Repetitive behaviors in autism spectrum disorder (ASD)
 
 * Normally, much lower doses of fluoxetine are required to treat repetitive behaviors in ASD patients than those used to treat depression. [^Maudsley]
 * Use a liquid preparation and begin at the lowest possible dose, monitoring for adverse effects. 
 * Dosing: 
-	* 2.5mg/day a day for 1 week
-		*  2.5mg = 0.625mL, which is difficult to measure accurately.
-	* Follow with a flexible titration schedule of 0.8mg/kg/day.
-		* Week 2: 0.3mg/kg 
-		* Week 3: 0.5mg/kg/day
-		* 0.8mg/kg/ day subsequently
-#### PTSD 
+	* 2.5 mg/day a day for 1 week
+		*  2.5 mg = 0.625 mL, which is difficult to measure accurately.
+	* Follow with a flexible titration schedule of 0.8 mg/kg/day.
+		* Week 2: 0.3 mg/kg 
+		* Week 3: 0.5 mg/kg/day
+		* 0.8 mg/kg/day subsequently
+#### Posttraumatic stress disorder (PTSD) 
 
 * The overall evidence is inconclusive regarding the efficacy of fluoxetine for PTSD, especially in veterans. The results from placebo-controlled trials are mixed.  [^Bajor]
-#### Social anxiety disorder
+#### Social anxiety disorder (SAD)
 
 * All SSRIs are probably effective for social anxiety disorder, but some have stronger supporting evidence. [^Osser-SAD] 
 * Fluoxetine may have some efficacy in treating SAD, but the results appear less robust than those of other SSRIs. [^Blanco]
@@ -162,7 +182,7 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 ## Adverse effects
 ### Most common side effects
 
-* Nausea, diarrhea
+* Nausea and diarrhea
 * Activation symptoms
 	* Nervousness
 	* Insomnia
@@ -180,7 +200,7 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 		-  Evidence of fair quality supports the use of terazosin (an alpha-1 adrenergic blocker).
 * Tremor
 * Sexual dysfunction: [^Goldberg]
-	* Decreased libido: up to 4% incidence
+	* Decreased libido: Up to 4% incidence
 	* There are no specific incidence reports for impotence, erectile dysfunction, delayed ejaculation, or anorgasmia.
 	* "Drug holidays" are not effective for fluoxetine. [^Rothschild]
 * Headache
@@ -189,15 +209,15 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 ### Serious, but rare side effects
 
 * Hyponatremia, mainly in the elderly.
-* Gastrointestinal bleeding, especially when combined with NSAIDs such as ibuprofen.
+* Gastrointestinal bleeding, especially when combined with NSAIDs, such as ibuprofen.
 
 ## Use in special populations
 ### Breastfeeding
 
-* The average amount of drug in breastmilk is higher with fluoxetine than with most other SSRIs
+* The average amount of drug in breast milk is higher with fluoxetine than with most other SSRIs.
 * Agents that are less excreted in breast milk may be a better option, especially when nursing a newborn or preterm infant. [^Lactmed]
 * Should breastfeeding be stopped?
-	* If fluoxetine is required by the mother, it is not a reason to discontinue breastfeeding. 
+	* If the mother requires fluoxetine, it is not a reason to discontinue breastfeeding. 
 * Should fluoxetine be switched during breastfeeding?
 	* If a mother was taking fluoxetine during pregnancy or if other antidepressants proved ineffective, most experts advise against switching medications while breastfeeding.
 
@@ -207,14 +227,14 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 	*  It can take many weeks to reach steady-state serum levels.
 	*  Fluoxetine is complex to use in this population. 
 * If fluoxetine is administered to patients with liver disease: [^Maudsley]
-	* consider a dose reduction of at least 50%, or
-	* consider alternate-day dosing.
+	* Consider a dose reduction of at least 50%, or
+	* Consider alternate-day dosing.
 ### Renal impairment
 
-* GFR 20–50mL/min: dose as normal renal function.
-* GFR <20mL/min: 
-	* use a low dose or, 
-	* use alternate day dosing, and increase according to response
+* GFR GFR 20 mL–50 mL/min: Dose as normal renal function.
+* GFR <20 mL/min: 
+	* Use a low dose, or
+	* Use alternate day dosing, and increase according to response
 
 ## Brand names
 
