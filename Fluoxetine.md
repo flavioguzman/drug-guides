@@ -200,7 +200,6 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 	* If fluoxetine is required by the mother, it is not a reason to discontinue breastfeeding. 
 * Should fluoxetine be switched during breastfeeding?
 	* If a mother was taking fluoxetine during pregnancy or if other antidepressants proved ineffective, most experts advise against switching medications while breastfeeding.
-
 ### Hepatic impairment
 
 * Liver impairment can increase the half-lives of fluoxetine and norfluoxetine. [^Prozac]
