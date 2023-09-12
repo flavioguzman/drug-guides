@@ -1,10 +1,6 @@
 ---
 Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines and Adverse Effects"
 ---
-
-
-# Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines and Adverse Effects
-
 ## In a nutshell
 
 * Pharmacodynamics: 
@@ -15,6 +11,7 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 	* It is also used off-label to treat repetitive behaviors in autism spectrum disorder.
 * Unique features: 
 	* Fluoxetine has a long half-life of 2-4 days (norfluoxetine metabolite has a half-life of 7-14 days).
+
 ## Pharmacodynamics
 
 * Animal studies reveal that:
@@ -28,8 +25,8 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 ![fluoxetine pharmacodynamics](https://cdn.psychopharmacologyinstitute.com/%5BGuides%5D/Fluoxetine%20pharmacodynamics%20-%20SERT%20and%205HT2C.svg)
 
 
-
 ## Pharmacokinetics
+
 ### Half-life
 
 * Fluoxetine half-life: 2-4 days
@@ -40,10 +37,12 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 	* The effects of dose changes will not be fully reflected for several weeks.
 	* If you need to switch a patient from fluoxetine to an MAOI, you must wait a longer washout period before initiating the MAOI. It is generally recommended to wait 5 weeks.[^Prozac]
 	*  Weekly delayed-release fluoxetine 90mg yields similar plasma levels to 10-20mg daily. [^Procyshyn]
+
 ### Effects on CYP2D6
 
 
 ![fluoxetine_cyp2d6](https://cdn.psychopharmacologyinstitute.com/%5BGuides%5D/Fluoxetine%20-%20Strong%20CYP2D6%20inhibitor.svg)
+
 * Fluoxetine inhibits the activity of CYP2D6. 
 	* This may cause individuals with regular CYP2D6 metabolic activity to resemble poor metabolizers.
 	* Fluoxetine can increase the levels of pimozide and thioridazine.
@@ -77,6 +76,7 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 ### FDA-approved indications and dosing
 
 #### Overview
+
 * Mood disorders:
 	* Major depressive disorder
 	* Bipolar depression (as olanzapine/fluoxetine combination, Symbyax)
@@ -86,6 +86,7 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 	* OCD
 * Fluoxetine is the only antidepressant approved for the treatment of bulimia.
 #### Major depressive disorder
+
 * Adults
 	* Starting dose: 
 		* Initiate 20 mg/day orally in the morning. 
@@ -100,6 +101,7 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 		* However, due to higher plasma levels in lower-weight children, the starting and target dose in this group may be 10 mg/day. 
 		* Consider a dose increase to 20 mg/day after several weeks if insufficient clinical improvement is observed. 
 #### Obsessive-compulsive disorder
+
 * Adults
 	* Starting dose:
 		* Initiate 20 mg/day orally in the morning. 
@@ -119,7 +121,9 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 	  * In lower-weight children:
 		* Initiate treatment with a dose of 10 mg/day.
 		* Dose range: 20 to 30 mg/day. 
+
 #### Panic disorder
+
 * Starting dose:
 	* Initiate 10 mg/day. 
 * Dose increases:
@@ -156,11 +160,13 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 		* Olanzapine 12 mg/ fluoxetine 50 mg
   
 #### Treatment-resistant depression (as Symbyax)
+
 * Adults
 	* Timing: Once daily in the evening.
 	* Starting dose: 
 		* Start with the olanzapine 6 mg/ fluoxetine 25 mg capsule.
 	* Maximum dose: olanzapine 12 mg/ fluoxetine 50 mg once daily.
+
 ### Off-label uses
 
 #### Repetitive behaviors in ASD
@@ -174,9 +180,11 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 		* Week 2: 0.3mg/kg 
 		* Week 3: 0.5mg/kg/day
 		* 0.8mg/kg/ day subsequently
+
 #### PTSD 
 
 * The overall evidence is inconclusive regarding the efficacy of fluoxetine for PTSD, especially in veterans. The results from placebo-controlled trials are mixed.  [^Bajor]
+
 #### Social anxiety disorder
 
 * All SSRIs are probably effective for social anxiety disorder, but some have stronger supporting evidence. [^Osser-SAD] 
@@ -223,6 +231,7 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 	* If fluoxetine is required by the mother, it is not a reason to discontinue breastfeeding. 
 * Should fluoxetine be switched during breastfeeding?
 	* If a mother was taking fluoxetine during pregnancy or if other antidepressants proved ineffective, most experts advise against switching medications while breastfeeding.
+
 ### Hepatic impairment
 
 * Liver impairment can increase the half-lives of fluoxetine and norfluoxetine. [^Prozac]
