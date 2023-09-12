@@ -19,7 +19,7 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 
 * Animal studies reveal that:
 	* Fluoxetine inhibits the serotonin transporter protein (SERT). 
-		* Potent serotonin uptake inhibitor
+		* Fluoxetine is a potent serotonin uptake inhibitor.
 	* At higher concentrations, fluoxetine inhibits 5HT2C receptors. [^Pälvimäki]
 		* This may mediate increased synaptic norepinephrine and dopamine in the prefrontal cortex.	[^Bymaster]
 * Potential clinical implications:
