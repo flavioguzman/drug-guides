@@ -48,7 +48,30 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 	* This may cause individuals with regular CYP2D6 metabolic activity to resemble poor metabolizers.
 	* Fluoxetine can increase the levels of pimozide and thioridazine.
 
- 
+## Dosage forms and available strengths 
+
+* Prozac and generic fluoxetine [^Prozac]
+	* Pulvules (Lilly's brand of gelatin capsules): 
+		* 10 mg
+		* 20 mg
+		* 40 mg 
+	* Capsules (generic): 
+		* 10 mg
+		* 20 mg
+		* 40 mg
+	* Tablets (generic): 
+		* 10 mg
+		* 20 mg
+		* 60 mg.
+	* Delayed-release capsules (generic): 
+		* 90 mg
+	* Oral solution (generic): 
+		* 20mg/5mL 
+* Symbyax [^Symbyax]
+	* Capsules: 
+		* 25mg/3mg (fluoxetine/olanzapine)
+		- 25mg/6mg (fluoxetine/olanzapine)
+
 ## Indications
 
 ### FDA-approved indications and dosing
