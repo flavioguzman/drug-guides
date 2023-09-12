@@ -114,21 +114,21 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 * Adults
 	* Timing: Once daily in the evening.
 	* Starting dose:
-		* Start with the olanzapine, 6 mg/fluoxetine, 25 mg capsule.
-	* Maximum dose: olanzapine, 12 mg/fluoxetine, 50 mg once daily.
+		* Start with the olanzapine 6 mg / fluoxetine 25 mg capsule.
+	* Maximum dose: olanzapine 12 mg / fluoxetine 50 mg once daily.
 * Children and adolescents (10–17 years of age)
 	* Timing: Once daily in the evening.
 	* Starting dose: 
-		* Olanzapine 3 mg/fluoxetine 25 mg 
+		* Olanzapine 3 mg / fluoxetine 25 mg 
 	* Maximum dose: 
-		* Olanzapine 12 mg/fluoxetine 50 mg
+		* Olanzapine 12 mg / fluoxetine 50 mg
   
 #### Treatment-resistant depression (as Symbyax)
 * Adults
 	* Timing: Once daily in the evening.
 	* Starting dose: 
-		* Start with the olanzapine, 6 mg/fluoxetine, 25 mg capsule.
-	* Maximum dose: olanzapine, 12 mg/fluoxetine, 50 mg once daily.
+		* Start with the olanzapine 6 mg / fluoxetine 25 mg capsule.
+	* Maximum dose: olanzapine 12 mg / fluoxetine 50 mg once daily.
 ### Off-label uses
 
 #### Repetitive behaviors in autism spectrum disorder (ASD)
@@ -177,7 +177,7 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 * Headache
 * Rash
 
-### Serious, but rare side effects
+### Serious but rare side effects
 
 * Hyponatremia, mainly in the elderly.
 * Gastrointestinal bleeding, especially when combined with NSAIDs, such as ibuprofen.
@@ -202,7 +202,7 @@ Title: "Fluoxetine Practical Guide: Pharmacology, Indications, Dosing Guidelines
 	* Consider alternate-day dosing.
 ### Renal impairment
 
-* GFR GFR 20 mL–50 mL/min: Dose as normal renal function.
+* GFR  20 mL–50 mL/min: Dose as normal renal function.
 * GFR <20 mL/min: 
 	* Use a low dose, or
 	* Use alternate day dosing, and increase according to response
