@@ -9,8 +9,7 @@ what markdown syntax does pandoc understand for adding captions to an image
 > `![This is the caption](url-of-the-image)`
 > In this syntax, the text inside the square brackets is the caption of the image, and the URL inside the parentheses is the source of the image.
 
-![imagealttag](https://cdn.psychopharmacologyinstitute.com/%5BGuides%5D/Fluvoxamine%20-%20Strong%20inhibitor.png)
- ![This is the caption]()
+![This is the caption](https://cdn.psychopharmacologyinstitute.com/%5BGuides%5D/Fluvoxamine%20-%20Strong%20inhibitor.png)
 
 Effects on CYP450 isoenzymes
 
